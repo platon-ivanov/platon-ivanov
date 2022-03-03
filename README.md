@@ -24,7 +24,7 @@ I am a passionate web developer, always exploring new fields. I have worked with
 
 #### Exploring 🧐
 
-- [**Next.js**](https://github.com/vercel/next.js/). I am strongly contemplating using it as my backend base, because of its tight integration with React. I am sticking to Express.js for now for ease of use, but will be exploring Next.js in the near future.
+- [**Fastify.js**](https://github.com/fastify/fastify) instead of Express.js. It offers all the features I need with more built-in functionality.
 - [**Vite**](https://github.com/vitejs/vite). Vite speeds up my development by a lot. I am exploring projects that build on top of it.
   - [**Vitedge**](https://github.com/frandiox/vitedge) for ESR
   - [**Vite SSR**](https://github.com/frandiox/vite-ssr) for SSR
