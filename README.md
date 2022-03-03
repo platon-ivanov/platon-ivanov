@@ -20,7 +20,7 @@ I am a passionate web developer, always exploring new fields. I have worked with
 - **PHP**. My first backend language. I did not master it, because I quickly moved to Node.js.
 - [**Express.js**](https://github.com/expressjs/express). My **go-to** library for backend at this moment. I am very comfortable with using it and can create complex APIs.
 - [**uWebSocket.js**](https://github.com/uNetworking/uWebSockets.js). I like the freedom this library allows. It made it simple to write my own solution to connecting websockets with my cookie token-based backend API.
-- [**
+- [**PostgreSQL**](https://www.postgresql.org/). I love using PostgreSQL in my projects. However, I am still exploring other database solutions.
 
 #### Exploring 🧐
 
