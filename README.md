@@ -37,8 +37,6 @@ I am uploading my projects starting **March 2022**.
 I started as a 3D modeller in [Blender](https://www.blender.org/). After becoming advanced in it, I decided to start creating videogames in the [Unity](https://unity.com/) engine. I even took part in game jams with my friend! It was not only fun, but I also learned useful skills like file structuring and time management ⏰.
 I then learned Python and soon moved to web development. It is my main passion to this day!
 
-[![Top Languages](https://github-readme-stats.vercel.app/api?username=platon-ivanov)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Languages
 
 I love learning languages and take the task very seriously. My current languages include:
@@ -48,3 +46,7 @@ I love learning languages and take the task very seriously. My current languages
 - **Russian** 🇷🇺 - Full Professional Proficiency
 - **German** 🇩🇪 - Professional Working Proficiency
 - **Italian** 🇮🇹 - Limited Working Proficiency
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=platon-ivanov)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=platon-ivanov)](https://github.com/anuraghazra/github-readme-stats)
